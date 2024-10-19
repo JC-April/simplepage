@@ -1,1 +1,1 @@
-A simple responsive page with to overlapping divs
+A simple responsive page with two overlapping divs
